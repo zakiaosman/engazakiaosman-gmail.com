@@ -1,0 +1,6 @@
+{
+  "name": "SOM SKIN GLOW",
+  "description": "Experience premium organic Somalian beauty rituals blending traditional heritage like Qasil, Malmalka, and Uunsi with modern skin science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
